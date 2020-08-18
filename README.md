@@ -4,7 +4,7 @@ Quickcoin integration/staging tree
 http://www.quickcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Quickcoin Developers
+Copyright (c) 2020 Quickcoin Developer
 
 What is Quickcoin?
 ----------------
